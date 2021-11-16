@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the Project
+
+This repository is a sample of a front-end SPA (Single Page Application) created with reusable components.
+
+### How it Works
+
+Type in the input bar any registered Github username and click on the SEARCH button.
+It will get some information from that username on the [Github public API](https://api.github.com/) and show them on your browser, with a list of all his/her repositories and which repositories he/she starred.
+
+### Technologies Applied to the Application
+
+- [Javascript](https://www.javascript.com/)
+- [CSS](https://devdocs.io/css/)
+- [ReactJS](https://reactjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React-tabs](https://www.npmjs.com/package/react-tabs)
+- [Styled Components](https://styled-components.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
